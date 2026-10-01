@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## About Myself😁
+I am currently working on improving my data structures and algorithms skills .😊
+I am also deeply interested in building real life projects💖
+I have decided to upload my projects here 😎
+I am currently pursuing my BTECH degree in Computer Science at NIT Meghalaya😉
+Fun Fact: I also love playing Chess😁
+How to reach me: aakashchoudhury17@gmail.com✨
 <!--
 **aakashchoudhury17c/aakashchoudhury17c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
